@@ -21,3 +21,7 @@ This tutorial will guide you through learning React step by step with practical 
 - Basic knowledge of HTML, CSS, and JavaScript
 - Node.js (version 14 or higher)
 - npm or yarn package manager
+
+## Videos
+
+- [Youtube Video Link](https://www.youtube.com/watch?v=RGKi6LSPDLU)
